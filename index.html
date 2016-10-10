@@ -1,0 +1,45 @@
+---
+layout: default
+title: latest 
+order: 1
+---
+
+<section class="tiles">
+
+{% assign featured_posts = (site.posts|where:"list","false") %}
+  {% for post in featured_posts limit:6 %}      
+  <article class="{{ post.class }}">
+        <span class="image">
+          <img src="{{ post.list-image | prepend: site.baseurl }}" alt="">
+        </span>
+        <a href="{{ post.url | prepend: site.baseurl }}" title="{{ post.title }}">
+          <h2>{{ post.title }}</h2>
+          <span>{{ post.date | date: "%b %-d, %Y" }}</span>
+          <div class="content">
+            <p>{{ post.description }}</p>
+          </div>
+        </a>
+      </article>
+    {% endfor %}
+
+</section>
+
+
+<section class = "post-list">
+
+  {% assign featured_posts = (site.posts|where:"list","true") %}
+  {% for post in featured_posts %}
+      <div class="{{post.class}}">
+      <a href="{{ post.url | prepend: site.baseurl }}" title="{{ post.title }}"> 
+        
+          <h1 class ="title">{{ post.title }}</h1> </a>
+
+          <span class="date">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+          <div class="content">
+            <p>{{ post.description }}</p>
+          </div>
+      </div>
+    {% endfor %}
+
+</section>

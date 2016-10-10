@@ -1,0 +1,220 @@
+/* Section/Article */
+
+@import 'https://fonts.googleapis.com/css?family=Lato';
+
+	section, article {
+		&.special {
+			text-align: center;
+		}
+	}
+
+	header {
+		p {
+			margin-top: _size(element-margin) * -0.5;
+		}
+
+		@include breakpoint(small) {
+			p {
+				margin-top: 0;
+			}
+		}
+	}
+
+	article {
+		max-width: 700px;
+		margin: 0 auto;
+		text-align: left;
+	}
+
+	header {
+		text-align: center;
+	}
+
+	.tbutton {
+		position: relative;
+  	display: inline-block;
+  	height: 20px;
+  	width: 50px;
+  	border: 1px solid #ccc;
+  	font-size: 11px;
+  	color: #333;
+  	text-decoration: none;
+	}
+
+	.boldbody {
+		font-family: 'Lato','Helevetica', sans-serif;
+		font-size: 22px;
+	}
+
+	.quote {
+		font-size: 30px;
+		color: #DB7093;
+	}
+
+	.video-container {
+	position:relative;
+	padding-bottom:56.25%;
+	padding-top:30px;
+	height:0;
+	overflow:hidden;
+}
+
+.video-container iframe, .video-container object, .video-container embed {
+	position:absolute;
+	top:0;
+	left:0;
+	width:100%;
+	height:100%;
+}
+
+.post-headings {
+	font-size: 24px;
+
+}
+
+h2.styles {
+	padding-top: 60px;
+	text-align: center;
+}
+
+
+/* Reading bar on posts */
+	progress {
+	  /* Positioning */
+	  position: fixed;
+	  left: 0;
+	  top: 0;
+
+	  /* Dimensions */
+	  width: 100%;
+	  height: 3px;
+
+	  /* Reset the appearance */
+	  -webkit-appearance: none;
+	     -moz-appearance: none;
+	          appearance: none;
+
+	  /* Get rid of the default border in Firefox/Opera. */
+	  border: none;
+
+	  /* Progress bar container for Firefox/IE10+ */
+	  background-color: transparent;
+
+	  /* Progress bar value for IE10+ */
+	  color: #DB7093;
+	}
+
+	progress::-webkit-progress-bar {
+	  background-color: transparent;
+	}
+
+	progress::-webkit-progress-value {
+	  background-color: #DB7093;
+	}
+
+	progress::-moz-progress-bar {
+	  background-color: #DB7093;
+	}
+
+
+
+/* Facebook share button, fix images in posts */
+
+
+/* typography, fonts in artcles */
+
+/* footer + social icons */
+#footer {
+	height: 20%;
+
+}
+
+.social {
+  text-align: center;
+  letter-spacing: 15px;
+  font-size: 36px;
+  bottom: 0;
+  padding-top: 30px;
+  border-bottom: 0 !important;
+  float: right;
+
+
+}
+
+a.fa {
+  text-decoration: none;
+  color: #333;
+  border-bottom: 0 !important;
+
+}
+
+a.twitter {
+  color: #1da1f2 !important;
+}
+
+.fa-twitter:hover {
+  color: #1da1f2 !important;
+}
+
+.fa-instagram:hover {
+  color: #125688 !important;
+}
+
+.fa-envelope:hover {
+  color: #7ac143 !important;
+}
+
+/* Post list */
+
+.post-list {
+	padding-top: 50px;
+}
+
+.title {
+	font-size:40px;
+	margin: 0px !important;
+}
+
+
+
+
+
+
+
+/* Ads */
+#carbonads {
+  position: fixed;
+  top: 1em;
+  left: 1em;
+  padding-left: 5px;
+  max-width: 300px;
+}
+
+.carbon-img { 
+	float: left; 
+	padding-right: 10px;
+	border-bottom: 0 !important;
+
+}
+.carbon-text { 
+	display: block; 
+	font-size: 15px;
+	border-bottom: 0 !important;
+}
+.carbon-poweredby { 
+	float: right;
+	font-size:10px;
+	border-bottom: 0 !important;
+
+ }
+
+@include breakpoint(small) {
+	#carbonads {
+	position: relative;
+	margin: 0 auto;
+	text-align: center;
+	padding-bottom: 100px;
+	left: 0em;
+
+		}
+	}

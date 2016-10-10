@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>siimply tech</title>
+    <description>a blog built &amp; maintainined by tech enthusiasts, providing high-quality content to the web.
+</description>
+    <link>http://siimplytech.com/</link>
+    <atom:link href="http://siimplytech.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 10 Oct 2016 10:40:03 -0400</pubDate>
+    <lastBuildDate>Mon, 10 Oct 2016 10:40:03 -0400</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Artificial Intelligence: Data, Learning, Algorithms, and an Opinion</title>
+        <description>&lt;p&gt;Artificial Intelligence has recently become a topic of serious discussion in the tech community. Some are for it, seeing the potential for societal growth and innovation through it exploitation, while some see its development as a threat to society, building a conscious being that’s void of emotion and any sense of ethicality, or acs an unethical practice in itself, believing that constructing a being is the work of god and should be left to a higher power. However, there is a great potential to better the world with the use of artificially intelligent programs.&lt;/p&gt;
+
+&lt;p&gt;Data is an abstract concept to many, but it has a definite presence today, and always has since the dawn of man. Data is simply any recorded information, and this is extremely powerful. A few examples of data, in evolutionary order, include cave paintings of animals, hieroglyphs documenting rituals, renaissance scientist recording results of their experiments, and now your google searches. If you didn’t already know, Google saves all of your searches…all of them. Some conspiracy theorist might attribute this to the government keeping tabs on every single thing you do, but it’s actually for a much more humane cause.&lt;/p&gt;
+
+&lt;p&gt;&lt;i&gt; How do you predict a flu outbreak weeks before it occurs? &lt;/i&gt; Well if you’re Google, you query all searches related to the flu, and analyze that data, find a pattern, and boom! Your prediction of the coming outbreak has a solid basis. This was one of Google’s famous projects that successfully predicted the outbreak of the flu based solely on analysis of google searches related to the keyword: Flu. A big part of this project was seeing a pattern to make a valid prediction.&lt;/p&gt;
+
+&lt;p&gt;Something that’s extremely good at finding patterns in a big mess of data are machine learning algorithms. When Google continued to track the searches to analyze patterns in search for the next outbreak, their process was completely skewed. This was due to many people hearing about their project, resulting in a surge in flu related searches which contaminated their data. With an advanced machine learning algorithm, this could be fixed. The program could analyze the pattern of the words in the searches, and even with a contaminated surge in searches, based on frequency and taking into consideration other keywords that may suggest an unrelated search, the algorithm could weed out what searches are most likely informative, and use the searches that are most likely pointing to a possible outbreak.&lt;/p&gt;
+
+&lt;p&gt;Artificial Intelligence and Machine Learning are two different things. While machine learning uses models created by the developers to train its database of information, artificial intelligence is exactly what it’s name suggests: Intelligence that isn’t natural. Much about human intelligence is still a mystery, so replicating it is exceeding difficult, but the crux of it all is creating an artificial neural network that can function on it’s own, and build it’s own database of information the same way a human would. The bonus, however, would be it’s consciousness. You would be able to have a conversation with this ‘thing’ as if it were a human.&lt;/p&gt;
+
+&lt;p&gt;So many questions arise about ourselves when we think about AI, for example, what does it mean to take a stance on something. If you asked an AI who would make a better president, Donald Trump or Hillary Clinton. Most people make these decisions based on countless biases, both conscious and subconscious. What bias would an artificially intelligent being have to answer such a question? Are all of our decisions, as humans, made with a bias? How much of what we do is is driven by emotion?  The more we learn about artificial intelligence, the more we learn about ourselves, and that’s just as powerful as recreating man.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 10 Oct 2016 00:00:00 -0400</pubDate>
+        <link>http://siimplytech.com/news/2016/10/10/ai-data-future.html</link>
+        <guid isPermaLink="true">http://siimplytech.com/news/2016/10/10/ai-data-future.html</guid>
+        
+        
+        <category>news</category>
+        
+      </item>
+    
+      <item>
+        <title>Amazon is trying to become it's own shipping carrier</title>
+        <description>&lt;p&gt;Starting from an online bookstore in 1994, Amazon conquered the &lt;a href=&quot;http://www.forbes.com/sites/kenkam/2016/05/27/the-market-is-underestimating-amazon/#6fa0e7397995&quot;&gt;ecommerce market&lt;/a&gt;, become &lt;a href=&quot;http://www.theverge.com/2016/7/28/12313526/amazon-q2-2016-earnings-report-aws-cloud-profit&quot;&gt;profitable&lt;/a&gt;, and is now on it’s latest ambition: delivering your packages.&lt;/p&gt;
+
+&lt;p&gt;Since early 2014, Amazon’s quietly been making moves in the shipping industry with opening dozens of delivery centers and programs. These deliveries come through a carrier named AMZL_US, or Amazon Logistics.&lt;/p&gt;
+
+&lt;p&gt;Heading over to Amazon’s official site for their delivery service, &lt;a href=&quot;https://logistics.amazon.com/&quot;&gt;logistics.amazon.com&lt;/a&gt;, Amazon states that the delivery providers “are local companies that Amazon uses to deliver packages from a central location to our customer’s door.” (a third party) As soon as you click apply, it brings you to a page for a company to register itself with Amazon as a delivery partner.&lt;/p&gt;
+
+&lt;p&gt;And, that’s not all. Amazon’s also trying to promote it’s new &lt;a href=&quot;https://flex.amazon.com/&quot;&gt;flex&lt;/a&gt; program where individuals can deliver Amazon packages for extra cash. But, are all these efforts worth it?&lt;/p&gt;
+
+&lt;p&gt;Even though this might be costing Amazon a ton, all they’re trying to do is gain more control of the moment you buy an item to the moment it gets to your door. The importantance of this is now Amazon is able to get packages to customers directly - without having to deal with the hassles of other carriers like UPS and FedEx. Essentially, Amazon wants to be the only one between you and your wallet.&lt;/p&gt;
+
+&lt;p&gt;Judging by a couple &lt;a href=&quot;https://www.amazon.com/gp/help/customer/forums/ref=cs_hc_g_tv?ie=UTF8&amp;amp;forumID=Fx1SKFFP8U1B6N5&amp;amp;cdThread=Tx3FZ34YNIDMPX7&quot;&gt;discussions&lt;/a&gt; online, Amazon Logistics doesn’t seem to be doing that well so far. But, that can change. It’s interesting to see how a company evolves into so many other spaces that you’d never imagine they’ll go into. With Amazon, they did ecommerce, they did home automation, they did cloud services, and now they’re still doing all of that and trying to manage their own shipping company.&lt;/p&gt;
+
+&lt;p&gt;Nevertheless, at the moment, all Amazon has are a bunch of vans with Amazon stickers - and if it becomes something more than just that, Amazon will have one more thing to throw on their list of accomplishments.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 09 Oct 2016 00:00:00 -0400</pubDate>
+        <link>http://siimplytech.com/news/2016/10/09/amazon-carrier.html</link>
+        <guid isPermaLink="true">http://siimplytech.com/news/2016/10/09/amazon-carrier.html</guid>
+        
+        
+        <category>news</category>
+        
+      </item>
+    
+      <item>
+        <title>How the Internet Works</title>
+        <description>&lt;p&gt;The internet is the possibly the world’s greatest innovation. Within seconds, we can send a message around the globe, stream a video, or learn something new from millions of resources.  We all love the internet, but how does it actually work?&lt;/p&gt;
+
+&lt;h4&gt; Breaking it down, siimply &lt;/h4&gt;
+
+&lt;p&gt;In essence, the internet is just a bunch of computers connected to each other. When you are browsing the web, you are actually just getting information from all different computers around the world.&lt;/p&gt;
+
+&lt;p&gt;When you connect to WiFi, you aren’t just connecting to some magical cloud. WiFi uses radio waves to transmit information to something called a &lt;i&gt; router&lt;/i&gt;. That router is able to act as a hub for all your devices. But, how does this work? How does a message from New York reach Los Angeles in less than a second? Are there some sort of cables?&lt;/p&gt;
+
+&lt;p&gt;Yep, that’s right. They are already cables linked to your house - like your telephone line. Your &lt;i&gt; modem &lt;/i&gt; converts the information requested that’s sent to your router to data manageable to telephone infrastructure. Through your telephone line, that information is then forwarded to your Internet Service Provider (ISP). An ISP manages a bunch of &lt;i&gt; special &lt;/i&gt; routers that link up the world. When you search the web, your ISP carries your request through the network of ISP networks to the destination network.&lt;/p&gt;
+
+&lt;h4&gt; Connecting to computers &lt;/h4&gt;
+
+&lt;p&gt;Now, whenever you browse the internet, you have to specify which computer you want to connect to. We do this through Internet Protocol (IP) addresses. IP addresses consist of four numbers separated by a single dot. For example, &lt;code class=&quot;highlighter-rouge&quot;&gt;192.30.252.153&lt;/code&gt;
+is an IP address. However, it’s not really easy to remember such a long series of numbers - so we use something called domain names . Domains are basically an alias of IP addresses. For example, &lt;code class=&quot;highlighter-rouge&quot;&gt;siimplytech.com&lt;/code&gt; is an alias for an IP address on the server it’s hosted on.&lt;/p&gt;
+
+&lt;p&gt;But, not only does the server you are connecting to have IP address - you do too. In fact, each own of your devices has it’s own IP that’s used by hosts to locate your device. The web itself is built on top of this infrastructure. It uses the HTTP (Hypertext Transfer Protocol) as the foundation of data communication between you and the host.&lt;/p&gt;
+
+&lt;h4&gt; The bottom line &lt;/h4&gt;
+
+&lt;p&gt;The internet is just an infrastructure which allows billions of devices like your laptops, phones, and tablets to all connect to each other. In addition to the web, other services like email, FTP, and IRC are all built on top of the internet’s ever-growing infrastructure - and it’s growing faster than ever.  There are &lt;a href=&quot;http://www.gartner.com/newsroom/id/3165317&quot;&gt;6.4 billion&lt;/a&gt; devices estimated to be connected to the internet as of this year - and there’s no doubt the internet will be continue to be one of the most influential technological infrastructures for years to come.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 02 Oct 2016 00:00:00 -0400</pubDate>
+        <link>http://siimplytech.com/2016/10/02/how-the-internet-works-copy.html</link>
+        <guid isPermaLink="true">http://siimplytech.com/2016/10/02/how-the-internet-works-copy.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Is GoPro's Hero Here Yet?</title>
+        <description>&lt;p&gt;Over the past two years, GoPro’s been struggling. &lt;a href=&quot;http://www.pocket-lint.com/news/136453-gopro-s-disastrous-fourth-quarter-leads-to-workforce-layoffs-and-more&quot;&gt;2015 wasn’t a great year&lt;/a&gt; for the company, and &lt;a href=&quot;https://techcrunch.com/2016/07/27/gopro-soars-10-on-earnings-beat/&quot;&gt;2016 isn’t much better&lt;/a&gt;. Even with numerous price cuts, GoPro still can’t pull through.&lt;/p&gt;
+
+&lt;p class=&quot;quote&quot;&gt; All GoPro needs is a hero.&lt;/p&gt;
+
+&lt;p&gt;How do you save a company not doing so well? That’s right. Announce a new product. This week, GoPro announced the &lt;a href=&quot;https://shop.gopro.com/karma&quot;&gt;Karma Drone&lt;/a&gt;. It’s their first attempt in this market, and they sure did enter strong. GoPro’s been aiming the Karma for all people, not just athletes. Hence, they’ve made it &lt;i&gt; really easy &lt;/i&gt; for first-time flyers to get up in the air. With auto-takeoff and landing modes, an “easy” flight mode, some autonomous features, a full-fledged touchscreen LCD controller, and about 20 min of battery life, GoPro really is delivering a serious product.&lt;/p&gt;
+
+&lt;p&gt;It’s clear that the Karma trying to complete with one of the most popular drones on the market, the &lt;a href=&quot;http://www.dji.com/phantom-4&quot;&gt;DJI Phantom 4&lt;/a&gt;, with an even cheaper price point at just $799. Of course, that is, if you have a GoPro to take video. Otherwise, for $799, you’d just get a really powerful quadcopter.&lt;/p&gt;
+
+&lt;p&gt;In addition, GoPro is also selling bundles with the Hero 5 for $1199 or $999 with the Hero 5 Session (both saving you $100 if you bought them separately).&lt;/p&gt;
+
+&lt;p&gt;Moving on, GoPro’s newly updated Hero action cameras are great. The Hero 5 and Hero 5 Session both shoot 4k at 30 frames per second, both are water resistant up to 33 feet, and have voice control. However, in essence, they are still GoPros.&lt;/p&gt;
+
+&lt;p&gt;I still doubt any hobbyist videographer would upgrade from a Hero 3 or 4 considering the upgrades. GoPro’s just do what they do, well.&lt;/p&gt;
+
+&lt;p&gt;Another source of revenue GoPro’s hoping that will take off is GoPro Plus. It’s a service that automatically uploads your videos and photos from your GoPro to the cloud - so that you can view, edit, and share your content easily.&lt;/p&gt;
+
+&lt;p&gt;In fact, GoPro Plus is a important move – because now GoPro provides a service. In my opinion, that’s really the way to go. In fact, they even have two video editing apps, &lt;a href=&quot;https://gopro.com/news/introducing-the-gopro-mobile-creative-suite-featuring-quik-and-splice&quot;&gt;Splice and Quik&lt;/a&gt;. Even though these apps aren’t the main focus of GoPro, they could be the key to their success.&lt;/p&gt;
+
+&lt;p class=&quot;quote&quot;&gt; GoPro wants to make the products to help you tell your stories. &lt;/p&gt;
+
+&lt;p&gt;If GoPro can master those editing services, boom. They’ve got a product they can sell to even non-GoPro users and those users will be able to get that same GoPro editing experience without buying a $400 camera. If GoPro implemented what Apple did in iOS 10 with &lt;a href=&quot;http://appleinsider.com/articles/16/06/16/inside-ios-10-photos-memories-will-generate-slideshow-movies-automatically&quot;&gt;memories&lt;/a&gt;, GoPro could offer it’s editing service to anyone. Now, being honest, after you look at your footage, do you even do anything with it half of the time? What if you could throw it into GoPro’s app that automatically created an awesome video for every trip.&lt;/p&gt;
+
+&lt;p&gt;GoPro is certainly moving back into the right direction, and these decisions will ultimately decide their fate for years to come.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 21 Sep 2016 00:00:00 -0400</pubDate>
+        <link>http://siimplytech.com/news/2016/09/21/hero-GoPro.html</link>
+        <guid isPermaLink="true">http://siimplytech.com/news/2016/09/21/hero-GoPro.html</guid>
+        
+        
+        <category>news</category>
+        
+      </item>
+    
+      <item>
+        <title>A Little on Hackathons</title>
+        <description>&lt;p&gt;I remember about six months ago when I attended my first &lt;a href=&quot;http://stuyhacks.com/&quot;&gt;hackathon&lt;/a&gt;. Being completely honest, I really had no idea what would go down. As soon as I entered, there were over two hundred kids running around, sharing their ideas in search for a team. I’ve never experienced anything like that before.&lt;/p&gt;
+
+&lt;p&gt;But, what is a “hackathon” and what are “hacks”?
+A hackathon is a usually a weekend event where developers work on anything ranging from innovative software and hardware solutions to real-world problems. A “hack” means anything useful that a team has created in that timeframe.&lt;/p&gt;
+
+&lt;p&gt;My first hackathon was a great learning experience. It brought me back into the vast world of technology. It was truly eye-opening to see the potential of software and hardware all coming together. After a full 24 hours of collaborating with three strangers who I had never met before, my team and I managed to pull something off.&lt;/p&gt;
+
+&lt;p&gt;We basically made a buzzer connected to an arduino that beeped based on temperature. (yes i know, advanced developers - please don’t laugh…)&lt;/p&gt;
+
+&lt;p class=&quot;quote&quot;&gt;&quot;We all learned so so so much more than we would have by just staring at our laptops at home.&quot;&lt;/p&gt;
+
+&lt;p&gt;Even though I slept for an hour or two, that hackathon was one of the only events in my life where I felt like I was actually learning. Sure, maybe our project wasn’t that impressive. But, at least we made &lt;i&gt; something&lt;/i&gt;. And it turned out that &lt;i&gt; something&lt;/i&gt; lead to so much more.&lt;/p&gt;
+
+&lt;p&gt;As soon as I got home, I ordered a Raspberry Pi and as it arrived, I first used it as a NAS, then a web server, and lastly as media streaming device. The motivation for those projects all stemmed from my first hackathon. What else? At my next hackathon, I developed an Alexa skill, and now I have a free &lt;a href=&quot;https://amazon.com/echo&quot;&gt;Echo&lt;/a&gt; in the mail as part of a promotion that I completed.&lt;/p&gt;
+
+&lt;p&gt;What I’m trying to say is that hackathons are one of the greatest learning experiences you’ll ever have. With loads of sponsors giving out swag and showing off their API’s, delicious meals every couple hours, and most importantly, so many innovative people all under one giant roof – just &lt;i&gt;imagine &lt;/i&gt; the possibilities.&lt;/p&gt;
+
+&lt;p&gt;Just last week at PennApps, I got to witness some of the &lt;a href=&quot;https://www.youtube.com/watch?v=bM09X75omIQ&quot;&gt;greatest software, hardware, and VR hacks&lt;/a&gt; take place. Some of these included making eye exams more accessible in third world countries with a smartphone, using facial recognition to alert authorities of criminals, and even using augmented reality and sign language to communicate with people. All these hacks are just prototypes of the products we all may use in the future -  and we get to experience, learn, and test them in the present.&lt;/p&gt;
+
+&lt;p class=&quot;quote&quot;&gt;&quot;Hackathons are like experiencing the future in the present.&quot;&lt;/p&gt;
+
+&lt;p&gt;I think that’s why I love attending hackathons - who wouldn’t want to get a glimpse of the future? I encourage all aspiring and learning developers, especially high-school and college students, to &lt;a href=&quot;https://mlh.io&quot;&gt;register&lt;/a&gt; for a hackathon near you today.&lt;/p&gt;
+
+&lt;p&gt;The world (and I) can’t wait to see you build the future.&lt;/p&gt;
+
+&lt;p&gt;–
+On a side note, since computer science is growing faster than ever, we plan to provide tutorials on web development and other languages such as python and java to get beginners on their feet as soon as possible. Stay tuned :)&lt;/p&gt;
+</description>
+        <pubDate>Sun, 18 Sep 2016 00:00:00 -0400</pubDate>
+        <link>http://siimplytech.com/editorial/2016/09/18/why-hackathons-are-important.html</link>
+        <guid isPermaLink="true">http://siimplytech.com/editorial/2016/09/18/why-hackathons-are-important.html</guid>
+        
+        
+        <category>editorial</category>
+        
+      </item>
+    
+      <item>
+        <title>The Headphone Jack...</title>
+        <description>&lt;p&gt;Apple’s recent release of the iPhone 7 just took place on the 7th of September. Lucky number 7? Not so much. Although the release of the apple’s newest product received as much attention as any other release in the product line, the attention wasn’t all positive, and for reasons you would know about (if you don’t live under a rock).&lt;/p&gt;
+
+&lt;p&gt;With updates including a new Jet Black color, upgraded cameras, and water resistance, one of the more controversial things Apple has done is remove the headphone jack from all iPhone 7 models. While some individuals like the move, many are still unable to adapt to this change. Wireless may sound nice, but throw in the word battery life and it changes everything. I myself, own a pair of wireless bluetooth headphones from Sony but I often carry around my wired headphones because I never know when they’ll die. This is the problem iPhone 7 users will have to face, but with the added struggle of not having that audio jack available.&lt;/p&gt;
+
+&lt;p class=&quot;quote&quot;&gt;“Necessity spawns opportunity.”&lt;/p&gt;
+
+&lt;p&gt;If that phrase doesn’t have any significant meaning to you yet, it will in a few short moments. So, one of the primary questions asked regarding the removed audio jack is: “How will I use my headphones that require an audio port?”. Many people have wired headphones from Beats by Dr. Dre, &lt;a href=&quot;https://www.apple.com/pr/library/2014/05/28Apple-to-Acquire-Beats-Music-Beats-Electronics.html&quot;&gt;which is ironic because Apple acquired in 2014&lt;/a&gt;, and of course, many people would want to continue using their beloved high quality headset. What would happen to all of those customers? The answer is a dongle.&lt;/p&gt;
+
+&lt;p&gt;Apple has announced they are planning to release a &lt;a href=&quot;http://www.apple.com/shop/product/MMX62AM/A/lightning-to-35-mm-headphone-jack-adapter&quot;&gt;dongle&lt;/a&gt; that will do convert the lightning port to a 3.5mm audio jack, as well as offer a splitter with open charging port alongside it for those that want to listen to music and charge their phones simultaneously for about $40.&lt;/p&gt;
+
+&lt;p&gt;Going back to the quote, “necessity spawns opportunity”, we all know how expensive Apple likes to make their accessories, and the iPhone 7 seems to require a lot of them to be a complete phone. Just imagine losing one headphone piece. Apple can sell you another individual piece, and seeing that the pair cost up to $159, we can assume that the individual piece will be around $80. Yup…Apple has truly lost their minds.&lt;/p&gt;
+
+&lt;p&gt;Knowing that almost nobody will be happy to pay those prices for Apple’s products, third party manufacturers will step in as always, but this time, they will be more successful than ever as they can offer products such as the dongle significantly cheaper. As far as the Airpods go, it may be a ways before any unauthorized company may figure out how to rip them off with that type of technology, but when they do, the tech giant known as Apple will be forced to re-evaluate their prices design for the next iPhone release.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 12 Sep 2016 00:00:00 -0400</pubDate>
+        <link>http://siimplytech.com/editorial/2016/09/12/iphone-does-way-headphone-jack.html</link>
+        <guid isPermaLink="true">http://siimplytech.com/editorial/2016/09/12/iphone-does-way-headphone-jack.html</guid>
+        
+        
+        <category>editorial</category>
+        
+      </item>
+    
+      <item>
+        <title>The Era of the Electric Car</title>
+        <description>&lt;p&gt;Electric cars have taken the world’s attention by storm. We’ve all have seen an electric car on the road at some point in our lives and you may wonder: how come these vehicles are becoming so popular? I’m here to help you understand what electric cars truly do for us globally.&lt;/p&gt;
+
+&lt;p class=&quot;quote&quot;&gt;“We will not stop until every car on the road is electric.”- &lt;b&gt;&lt;i&gt;Elon Musk&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;This makes Elon Musk well, as determined as he possibly could be, but this isn’t about him, this is about the future of cars, specifically, &lt;i&gt; electric &lt;/i&gt; cars. An electric car is simply a vehicle that runs on at least one electric motor, and the energy comes from the controller which controls the overall amount of power being used.&lt;/p&gt;
+
+&lt;p&gt;How can electric cars make your life more convenient than a NGS (natural gas vehicle)? Well, you can charge the battery of your EV almost anywhere now. Japan now has more &lt;a href=&quot;https://www.theguardian.com/world/2016/may/10/japan-electric-car-charge-points-petrol-station&quot;&gt;EV charging ports&lt;/a&gt; than gas stations which is quite astonishing if you ask me, and not only that, but Japan’s travel cost has reduced by 89%. Cars like the &lt;a href=&quot;https://www.tesla.com/models&quot;&gt;Tesla Model S&lt;/a&gt; give up to 219 miles off a full charge on the base model.&lt;/p&gt;
+
+&lt;p&gt;Another great feature about EV’s are that they release no tailpipe emissions. As a result, this prevents global warming as it provides efficient air quality while significantly reducing oil consumption.&lt;/p&gt;
+
+&lt;p&gt;However, there is that downside of EV’s being charged by coal-fired power, although this is still much cleaner than vehicles that run on gas. Who knows, soon the electric system will incorporate solar, wind, and other forms of energy which will make these vehicles more sustainable overall. In fact, Tesla recently acquired &lt;a href=&quot;https://www.tesla.com/blog/tesla-and-solarcity-combine&quot;&gt;SolarCity&lt;/a&gt; which proves that Tesla may have plans to incorporate solar-powered batteries in their upcoming cars.&lt;/p&gt;
+
+&lt;p&gt;If you love driving, you know that the best part is the ultimate experience. Electric cars make it vital to provide the driver with the best driving possible. They are quick, quiet, and due to the high amount of torque, electric cars are a pleasure to ride and drive.&lt;/p&gt;
+
+&lt;iframe width=&quot;854&quot; height=&quot;480&quot; src=&quot;https://www.youtube.com/embed/_pbbgOApEbU&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Of course, the most popular electric car is the Model S. I’ve embedded a video that explains the in-n-outs of the car.&lt;/p&gt;
+
+&lt;p&gt;Although electric vehicles are great, people struggle to obtain these cars due to its pricing. EVs can range between $30,000-$980,000. Don’t worry though, you as a consumer will love to hear that companies are in development of more affordable vehicles like the &lt;a href=&quot;https://www.tesla.com/model3&quot;&gt;Tesla Model 3&lt;/a&gt;, an electric car aimed for everyone.&lt;/p&gt;
+
+&lt;p&gt;Another huge downside in owning an electric car is the time it takes for it to charge. You’ll have to time your day effectively. To solve this, charging stations like the &lt;a href=&quot;https://www.tesla.com/supercharger&quot;&gt;Tesla Supercharger&lt;/a&gt; are showing up more frequently all over the world, however, you must still take this into account when driving your car. It can handle your daily commute and errands just fine, but, however, if you’re planning on driving across the country for instance, I suggest you find EV stations before hand or have a backup battery. In addition, an upgrade to a hybrid car may be more ideal for those types of drivers.&lt;/p&gt;
+
+&lt;p&gt;In 2014, there were about 405,000 electric vehicles being used, and you may think that is certainly a lot, well, in 2016, the world has about 1.3 million electric vehicles on the road, and that my friend, is quite a number.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 09 Sep 2016 00:00:00 -0400</pubDate>
+        <link>http://siimplytech.com/info/2016/09/09/electric-cars.html</link>
+        <guid isPermaLink="true">http://siimplytech.com/info/2016/09/09/electric-cars.html</guid>
+        
+        
+        <category>info</category>
+        
+      </item>
+    
+      <item>
+        <title>Apple Event: iPhone 7, Watch Series 2, and More</title>
+        <description>&lt;p&gt;Apple’s annual event was today, September 7th, 2016. We’ve compiled everything you need to know:&lt;/p&gt;
+
+&lt;h1 class=&quot;post-headings&quot;&gt;Updates &amp;amp; Small Announcements&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;There are over 17 million active subscribers on Apple Music.&lt;/li&gt;
+  &lt;li&gt;To date, over 140 billion apps have been downloaded from the app store.&lt;/li&gt;
+  &lt;li&gt;Mario comes to iOS devices.&lt;/li&gt;
+  &lt;li&gt;The iWork suite gets real-time collaboration.&lt;/li&gt;
+  &lt;li&gt;Pokemon Go is coming to the Apple Watch.&lt;/li&gt;
+  &lt;li&gt;Homekit now supports even more accessories.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 class=&quot;post-headings&quot;&gt;Apple Watch Series 2&lt;/h1&gt;
+&lt;p&gt;The next generation of Apple Watch is swim-proof and is rated water resistant for up to 50 meters. For it’s speaker’s to work, Apple was able to re-engineer the Watch to eject the water out to produce sound. They also claimed that they’ve tested the water resistance in a simulation for over 100,000 swimming strokes to make sure that it’s truly durable.&lt;/p&gt;
+
+&lt;p&gt;It also has a dual core processor and a GPU that’s over two times faster than the first Apple Watch. To show off this tech, Apple demoed an app, Night Sky, running at over 60fps. It also has a brand new display that’s twice as bright at 1,000 nits.&lt;/p&gt;
+
+&lt;p&gt;In addition, Apple Watch Series 2 has built in GPS for walking and running with pace, distance, and a route map. Apple’s also worked with Nike to announce Apple Watch Nike+. It’s specifically designed for runner’s in mind with built in Nike running features.&lt;/p&gt;
+
+&lt;p&gt;As far as hardware goes, Apple Watch Series 2 now comes in a ceramic body and Hermes leather bands.&lt;/p&gt;
+
+&lt;p&gt;All versions of Apple Watch Series 2 will be priced at $369. Apple’s added the dual core processor to the first generation Apple Watch and it’ll be available for $269.&lt;/p&gt;
+
+&lt;h1 class=&quot;post-headings&quot;&gt;iPhone 7&lt;/h1&gt;
+&lt;p&gt;It’s time for what we’re all waiting for, the iPhone 7. Apple’s sold over 1,000,000,000 phones. Yep, that’s nine zeros. 1 billion.&lt;/p&gt;
+
+&lt;p class=&quot;quote&quot;&gt;&quot;iPhone: Best selling product of its kind in the history of the world.&quot; - &lt;b&gt;&lt;i&gt; Tim Cook&lt;/i&gt; &lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Apple’s most advanced phone to-date has 10 new major features:
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Design: Jet Black &amp;amp; Black colors.
+&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Home Button: Force sensitive, solid state.
+&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Water and Dust Resistant: IP67 protection standard
+&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Camera: Both versions of the iPhone will have optical image stabilization, a wider f/1.8 aperture lens, &amp;amp; a high-speed 12 megapixel sensor. 50% more light w/ flash. Front-facing Facetime HD camera has a 7 megapixel sensor. However, the iPhone 7 Plus has &lt;b&gt; two &lt;/b&gt; high-speed 12 megapixel cameras. This could be used for zoom while maintaining image quality. In addition, the new cameras on the 7 Plus has the ability to take shallow depth-of-field to allow for beautiful, bokehilious photos.
+&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Retina HD Display: 25% brighter.
+&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Stereo Speakers: One on the bottom, another up top. Twice the volume as before.
+&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Lightning Earpods: because Apple removed the headphone jack.
+&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Apple Airpods: Wireless Earphones using the W1 chip. Infared sensors detect when they are in your ear. Have a wireless charging case. External microphones.
+&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Apple Pay: More International capability.
+&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Performance: 64-bit A10 Fusion chip. Four cores. Two cores over 2x faster than the A9 chip. Two more low-performance chips for boosts in performance. On average, Apple says you’ll get about two more hours of battery life on the 7.
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p class=&quot;quote&quot;&gt;&quot;The CPU and GPU are over 120x and 240x faster than the original iPhone.&quot;&lt;/p&gt;
+
+&lt;p&gt;The iPhone is available in Silver, Rose Gold, Black, and Jet Black at 32GB, 128GB, and 256GB configurations. iPhone 7 starts at $649. Pre-orders start Friday, September 9th and it’s starts shipping on September 16th, 2016.&lt;/p&gt;
+
+&lt;p&gt;iOS 10 is available as a free update on September 13th. The AirPods go for $159 and are available for purchase in late October.&lt;/p&gt;
+
+&lt;p&gt;And, that’s a wrap.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 07 Sep 2016 00:00:00 -0400</pubDate>
+        <link>http://siimplytech.com/news/2016/09/07/apple-announces-iphone-7.html</link>
+        <guid isPermaLink="true">http://siimplytech.com/news/2016/09/07/apple-announces-iphone-7.html</guid>
+        
+        
+        <category>news</category>
+        
+      </item>
+    
+      <item>
+        <title>What Happened to the Drummer?</title>
+        <description>&lt;p&gt;If one clicked on any song on the Billboard top 100, he or she would notice a few trends: rhythm; a catchy melody; and some sort of electronic input. Rhythm and melody have always been part of pop music, but synthesizers and computers have only (relatively) recently become a thing. But is it really a good thing?&lt;/p&gt;
+
+&lt;p&gt;The sound effects and editing of computers are so important today in pop, and I can’t imagine a contemporary world with no guidance from the logic of a computer program. Still, it seems to have become more than just guidance. Computers and synthesizers largely provide rhythm and other musical input. One could go so far as to say that the modern-day drummer is archaic. If a pop-star, like Taylor Swift, decides to put noticeable, natural-sounding percussion, it is simply a novelty, and not necessarily taken seriously. Would an average listener really notice a guitar solo if it’s only half a pre-chorus long? (No, because you don’t really hear guitar solos in pop anymore.) In a concert, does Kanye West really need a drummer? He may use one, but any computer could do. And that could be a problem.&lt;/p&gt;
+
+&lt;p class=&quot;quote&quot;&gt;“Does Kanye West really need a drummer?”&lt;/p&gt;
+
+&lt;p&gt;Of course, it’s not like older popular musicians didn’t realize the advantages of technology in music. Les Paul and Mary Ford discovered the practicality of recording over recordings, and used it in obvious-sounding ways, a famous example being the song “How High the Moon.” The electric guitar itself was considered a technological advancement, and has become such a part of music culture(but now an unnecessary gimmick for some). More than a few groups starting in the 80s relied on lip syncing, although that didn’t always work out so well.&lt;/p&gt;
+
+&lt;p&gt;But the difference in then and now is that the music of decades past that we still remember today never relied solely on computers in rhythm and effects. Musicians and producers back then simply used it as another helpful tool in their large selection of money-making methods.&lt;/p&gt;
+
+&lt;p class=&quot;quote&quot;&gt;“The music of decades past that we still remember today never relied solely on computers in rhythm and effects”&lt;/p&gt;
+
+&lt;p&gt;I’m not trying to say that modern music is terrible, or that we should all start listening to Frankie Valli and the Four Seasons. There is just some concern as to the future of music. If the slope of computer use in pop continues to exponentially grow, then what use will “real” musicians be in a few years? Just gimmicks, maybe. How often do you hear a guitar in a pop song? How often do you hear it play more than one riff over and over again? Entire bands and artists that don’t openly use as much artificial help as others are packaged and sold as “old-fashioned”, and can’t really do anything to change their image. They provide some leverage for the “real” stars. One “old-fashioned” example is Bruno Mars. His managers have certainly crafted a retro sound in his music.&lt;/p&gt;
+
+&lt;p&gt;But would older pop artists like what they hear in this century? Loop after loop of electronic sound, singers whose voices are processed again and again to sound clearer, beats made by a rich man that you’ll never see (but it’s always been like that); What would Les Paul think of this? Maybe he would embrace everything about the advantages of modern music, or maybe he would find it fake, pretentious, and brutally simple.&lt;/p&gt;
+
+&lt;p&gt;Next time you listen to a radio, or Spotify, or even a car commercial, just think about the music you hear. Did it take a musician to make it? Will studio musicians be replaced by simpler, “cooler” methods? Should music become more electronic?&lt;/p&gt;
+
+&lt;p&gt;At least it’s funny when my suburban high school’s field hockey team decides to warm up to trap music.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 02 Sep 2016 00:00:00 -0400</pubDate>
+        <link>http://siimplytech.com/editorial/2016/09/02/what-happened-to-the-drummer.html</link>
+        <guid isPermaLink="true">http://siimplytech.com/editorial/2016/09/02/what-happened-to-the-drummer.html</guid>
+        
+        
+        <category>editorial</category>
+        
+      </item>
+    
+      <item>
+        <title>Innovation: What Tech Companies Are Doing Wrong</title>
+        <description>&lt;p&gt;As a kid, I’d always enjoy walking into a &lt;a href=&quot;http://www.microcenter.com/&quot;&gt;Micro Center&lt;/a&gt; or a &lt;a href=&quot;http://bestbuy.com&quot;&gt;Best Buy&lt;/a&gt;, and playing around with the latest computers, phones, and tablets for hours exploring their new features and studying the specs. Amazed by the breakthrough technologies, I remember running to my parents and explaining to them that you can actually read your newspaper on a touch screen and that I would be able to show them if they bought me an iPod Touch. Although it wasn’t a long time ago, times are changing. Back then, the touch screen was truly an innovation that several years ago no one could get over the fact that it would even exist. Today, companies &lt;i&gt; are &lt;/i&gt; still innovating, but in the wrong measures.&lt;/p&gt;
+
+&lt;p class=&quot;quote&quot;&gt;&quot;Companies &lt;i&gt; are &lt;/i&gt; innovating, but in the wrong measures.&quot;&lt;/p&gt;
+
+&lt;p&gt;For example, for the most part, didn’t companies like Apple and Samsung, in the last five years, develop a bigger, higher resolution screen, add a fingerprint sensor, improve the camera, and change the design of their mobile devices? Now I’m not saying that isn’t innovation. I’m just saying that it isn’t enough. Tech companies are interested in beating their &lt;i&gt;competition&lt;/i&gt;, not beating their last innovation.&lt;/p&gt;
+
+&lt;p class=&quot;quote&quot;&gt;Tech companies are interested in beating their &lt;i&gt;competition&lt;/i&gt;, not beating their last &lt;i&gt; innovation&lt;/i&gt;.&lt;/p&gt;
+
+&lt;p&gt;As a result, companies like Apple and Samsung are copying their competitors’ features in search for customers who are interested in them.  This limits their ability to create new, meaningful, tech that will actually have an impact on the way people use technology everyday.&lt;/p&gt;
+
+&lt;p class=&quot;quote&quot;&gt;&quot;&lt;b&gt;Innovation&lt;/b&gt; distinguishes between a &lt;b&gt;leader&lt;/b&gt; and a &lt;b&gt;follower&lt;/b&gt;.&quot; - &lt;b&gt;&lt;i&gt; Steve Jobs &lt;/i&gt;&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Steve Jobs knew that innovation is about creating something totally &lt;b&gt;different&lt;/b&gt;, and that principal is what made Apple different. Today, I see many followers, but barely see a leader. It feels as if the innovation is lost in the depths of the numbers.&lt;/p&gt;
+
+&lt;p&gt;On a positive note, I’d like to talk about companies that actually are innovating in the &lt;i&gt;right&lt;/i&gt; measures. Those companies innovate to create great products and services that the world can use every single day.&lt;/p&gt;
+
+&lt;p&gt;A clearest example of those very principles would be Google. With projects such as &lt;a href=&quot;https://atap.google.com/ara/&quot;&gt;Ara&lt;/a&gt;, &lt;a href=&quot;http://www.theverge.com/2015/3/2/8129543/google-x-internet-balloon-project-loon-interview&quot;&gt;Loon&lt;/a&gt;, and &lt;a href=&quot;https://get.google.com/tango/&quot;&gt;Tango&lt;/a&gt;, Google’s really showing that it can innovate in so many aspects. Other products and services like &lt;a href=&quot;https://drive.google.com&quot;&gt;Drive&lt;/a&gt;, &lt;a href=&quot;https://google.com/chromebook/&quot;&gt;Chrome OS&lt;/a&gt;, and Android continue to prove that Google is doing a lot for the development of the tech industry.&lt;/p&gt;
+
+&lt;p&gt;I’m just waiting that one day they’ll be even more leaders like Google who are developing their own original ideas, as those are the very ideas that will be, hopefully, called &lt;b&gt;innovation&lt;/b&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 01 Sep 2016 00:00:00 -0400</pubDate>
+        <link>http://siimplytech.com/editorial/2016/09/01/tech-company-innovation.html</link>
+        <guid isPermaLink="true">http://siimplytech.com/editorial/2016/09/01/tech-company-innovation.html</guid>
+        
+        
+        <category>editorial</category>
+        
+      </item>
+    
+  </channel>
+</rss>

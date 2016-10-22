@@ -25,7 +25,7 @@ According to [downdetector.com](http://downdetector.com/status/level3/map/), her
 
 <img src = "/assets/images/map.png">
 
-This attack is proof that it's entirely possible to take down the internet. This is perhaps one of the largest DDoS attacks we've seen, and as these attacks become more common, security is going to be a much higher concern for not only companies, but [us too](https://siimplytech.com/privacy/2016/08/25/privacy.html). Even though the group behind this attack remains a mystery, there's no doubt that today's incident will further impact the way in which the world looks toward the internet. 
+This attack is proof that it's entirely possible to take down the internet. As these attacks become more common, security is going to be a much higher concern for not only companies, but [us too](https://siimplytech.com/privacy/2016/08/25/privacy.html). Even though the group behind this attack remains a mystery, there's no doubt that today's incident will further impact the way in which the world looks toward the internet. 
 
 
 

@@ -5,7 +5,7 @@ title:        "How the Internet Works"
 date:         2016-10-02
 author:       "Samay Shamdasani"
 comments:     true
-list:		  false
+list:		  true
 
 # POST IMAGE
 class:  "style4"                         # text class, line up with img class (1..2)

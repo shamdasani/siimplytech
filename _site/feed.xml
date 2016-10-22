@@ -6,9 +6,32 @@
 </description>
     <link>http://siimplytech.com/</link>
     <atom:link href="http://siimplytech.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 10 Oct 2016 15:21:22 -0400</pubDate>
-    <lastBuildDate>Mon, 10 Oct 2016 15:21:22 -0400</lastBuildDate>
+    <pubDate>Fri, 21 Oct 2016 23:15:46 -0400</pubDate>
+    <lastBuildDate>Fri, 21 Oct 2016 23:15:46 -0400</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>What the attack on the internet means</title>
+        <description>&lt;p&gt;The internet was attacked today. Well, not the &lt;i&gt;entire&lt;/i&gt; internet, but a lot of the sites you use everyday were. 
+But the best part is that this attack was just on one company. That company was &lt;a href=&quot;https://dyn.com&quot;&gt;Dyn&lt;/a&gt; and just this morning, it was hit with several DDoS (Distributed Denial of Service) attacks. But, how did a attack on some company you’ve never heard about disrupt your browsing sessions this morning?&lt;/p&gt;
+
+&lt;p&gt;Sites like Reddit, Netflix, Twitter, PayPal, Spotify, SoundCloud, GitHub and many more all were impacted because they use &lt;a href=&quot;http://dyn.com/products/&quot;&gt;Dyn’s DNS service&lt;/a&gt;. Essentially, for these websites, Dyn is the &lt;a href=&quot;https://siimplytech.com/2016/10/02/how-the-internet-works-copy.html&quot;&gt;middle-man on the internet&lt;/a&gt;, linking your requests from your devices to the destination of the site through a Domain Name System (DNS). The attack which stroke Dyn overwhelmed the server with so many requests that it couldn’t process any. Instead of taking down one site, all the sites that were linked to Dyn’s DNS were taken down. This is what makes an attack like this so effective.&lt;/p&gt;
+
+&lt;p&gt;According to &lt;a href=&quot;http://downdetector.com/status/level3/map/&quot;&gt;downdetector.com&lt;/a&gt;, here’s a image of the impact the attack had on the internet as a whole:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/map.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This attack is proof that it’s entirely possible to take down the internet. This is perhaps one of the largest DDoS attacks we’ve seen, and as these attacks become more common, security is going to be a much higher concern for not only companies, but &lt;a href=&quot;https://siimplytech.com/privacy/2016/08/25/privacy.html&quot;&gt;us too&lt;/a&gt;. Even though the group behind this attack remains a mystery, there’s no doubt that today’s incident will further impact the way in which the world looks toward the internet.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 21 Oct 2016 00:00:00 -0400</pubDate>
+        <link>http://siimplytech.com/news/2016/10/21/what-the-attack-on-internet-means.html</link>
+        <guid isPermaLink="true">http://siimplytech.com/news/2016/10/21/what-the-attack-on-internet-means.html</guid>
+        
+        
+        <category>news</category>
+        
+      </item>
     
       <item>
         <title>Artificial Intelligence: Data, Learning, Algorithms, and an Opinion</title>
@@ -319,37 +342,6 @@ On a side note, since computer science is growing faster than ever, we plan to p
         <pubDate>Fri, 02 Sep 2016 00:00:00 -0400</pubDate>
         <link>http://siimplytech.com/editorial/2016/09/02/what-happened-to-the-drummer.html</link>
         <guid isPermaLink="true">http://siimplytech.com/editorial/2016/09/02/what-happened-to-the-drummer.html</guid>
-        
-        
-        <category>editorial</category>
-        
-      </item>
-    
-      <item>
-        <title>Innovation: What Tech Companies Are Doing Wrong</title>
-        <description>&lt;p&gt;As a kid, I’d always enjoy walking into a &lt;a href=&quot;http://www.microcenter.com/&quot;&gt;Micro Center&lt;/a&gt; or a &lt;a href=&quot;http://bestbuy.com&quot;&gt;Best Buy&lt;/a&gt;, and playing around with the latest computers, phones, and tablets for hours exploring their new features and studying the specs. Amazed by the breakthrough technologies, I remember running to my parents and explaining to them that you can actually read your newspaper on a touch screen and that I would be able to show them if they bought me an iPod Touch. Although it wasn’t a long time ago, times are changing. Back then, the touch screen was truly an innovation that several years ago no one could get over the fact that it would even exist. Today, companies &lt;i&gt; are &lt;/i&gt; still innovating, but in the wrong measures.&lt;/p&gt;
-
-&lt;p class=&quot;quote&quot;&gt;&quot;Companies &lt;i&gt; are &lt;/i&gt; innovating, but in the wrong measures.&quot;&lt;/p&gt;
-
-&lt;p&gt;For example, for the most part, didn’t companies like Apple and Samsung, in the last five years, develop a bigger, higher resolution screen, add a fingerprint sensor, improve the camera, and change the design of their mobile devices? Now I’m not saying that isn’t innovation. I’m just saying that it isn’t enough. Tech companies are interested in beating their &lt;i&gt;competition&lt;/i&gt;, not beating their last innovation.&lt;/p&gt;
-
-&lt;p class=&quot;quote&quot;&gt;Tech companies are interested in beating their &lt;i&gt;competition&lt;/i&gt;, not beating their last &lt;i&gt; innovation&lt;/i&gt;.&lt;/p&gt;
-
-&lt;p&gt;As a result, companies like Apple and Samsung are copying their competitors’ features in search for customers who are interested in them.  This limits their ability to create new, meaningful, tech that will actually have an impact on the way people use technology everyday.&lt;/p&gt;
-
-&lt;p class=&quot;quote&quot;&gt;&quot;&lt;b&gt;Innovation&lt;/b&gt; distinguishes between a &lt;b&gt;leader&lt;/b&gt; and a &lt;b&gt;follower&lt;/b&gt;.&quot; - &lt;b&gt;&lt;i&gt; Steve Jobs &lt;/i&gt;&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;Steve Jobs knew that innovation is about creating something totally &lt;b&gt;different&lt;/b&gt;, and that principal is what made Apple different. Today, I see many followers, but barely see a leader. It feels as if the innovation is lost in the depths of the numbers.&lt;/p&gt;
-
-&lt;p&gt;On a positive note, I’d like to talk about companies that actually are innovating in the &lt;i&gt;right&lt;/i&gt; measures. Those companies innovate to create great products and services that the world can use every single day.&lt;/p&gt;
-
-&lt;p&gt;A clearest example of those very principles would be Google. With projects such as &lt;a href=&quot;https://atap.google.com/ara/&quot;&gt;Ara&lt;/a&gt;, &lt;a href=&quot;http://www.theverge.com/2015/3/2/8129543/google-x-internet-balloon-project-loon-interview&quot;&gt;Loon&lt;/a&gt;, and &lt;a href=&quot;https://get.google.com/tango/&quot;&gt;Tango&lt;/a&gt;, Google’s really showing that it can innovate in so many aspects. Other products and services like &lt;a href=&quot;https://drive.google.com&quot;&gt;Drive&lt;/a&gt;, &lt;a href=&quot;https://google.com/chromebook/&quot;&gt;Chrome OS&lt;/a&gt;, and Android continue to prove that Google is doing a lot for the development of the tech industry.&lt;/p&gt;
-
-&lt;p&gt;I’m just waiting that one day they’ll be even more leaders like Google who are developing their own original ideas, as those are the very ideas that will be, hopefully, called &lt;b&gt;innovation&lt;/b&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 01 Sep 2016 00:00:00 -0400</pubDate>
-        <link>http://siimplytech.com/editorial/2016/09/01/tech-company-innovation.html</link>
-        <guid isPermaLink="true">http://siimplytech.com/editorial/2016/09/01/tech-company-innovation.html</guid>
         
         
         <category>editorial</category>

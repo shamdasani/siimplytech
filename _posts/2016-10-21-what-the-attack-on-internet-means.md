@@ -13,7 +13,7 @@ class:  "style2"
 
 list-image:  "/assets/images/servers.jpg"       
 description: >                                 
-  I
+  This attack isn't like any other, and it's changing the way in which the world looks toward the internet. 
 
 ---
 The internet was attacked today. Well, not the <i>entire</i> internet, but a lot of the sites you use everyday were. 
